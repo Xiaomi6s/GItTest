@@ -7,3 +7,4 @@
 Creating a new branch is quick & simple.
 4.0创建分支br1.0.1
 5.0重新创建一个新的分支dev
+6.0 no -dff更新
